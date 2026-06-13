@@ -1,33 +1,4 @@
-# Hi there 👋, I'm Abhay
 
-🎓 BCA Graduate | 📊 Data Science Enthusiast | 🤖 AI & ML Learner
-
-Welcome to my GitHub profile!
-
-I'm passionate about leveraging data and artificial intelligence to solve real-world problems. I continuously work on projects that help me improve my analytical thinking and technical skills.
-
-## 🚀 Interests
-- Data Science
-- Machine Learning
-- Artificial Intelligence
-- Data Analytics
-- Python Programming
-
-## 🌱 Currently Working On
-- Data Science Projects
-- Machine Learning Models
-- AI-Based Applications
-- Exploratory Data Analysis (EDA)
-
-## 🛠️ Tech Stack
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Jupyter Notebook
-- Git & GitHub
 
 ## 📫 Connect With Me
 📷 Instagram: https://www.instagram.com/_avii_choudhary0_7/

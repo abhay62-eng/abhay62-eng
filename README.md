@@ -1,8 +1,3 @@
-
-
-## 📫 Connect With Me
-📷 Instagram: https://www.instagram.com/_avii_choudhary0_7/
-
 # 💫 About Me:
 # Hi there 👋, I'm Abhay<br><br>🎓 BCA Graduate | 📊 Data Science Enthusiast | 🤖 AI & ML Learner<br><br>Welcome to my GitHub profile!<br><br>I'm passionate about leveraging data and artificial intelligence to solve real-world problems. I continuously work on projects that help me improve my analytical thinking and technical skills.<br><br>## 🚀 Interests<br>- Data Science<br>- Machine Learning<br>- Artificial Intelligence<br>- Data Analytics<br>- Python Programming<br><br>## 🌱 Currently Working On<br>- Data Science Projects<br>- Machine Learning Models<br>- AI-Based Applications<br>- Exploratory Data Analysis (EDA)<br><br>## 🛠️ Tech Stack<br>- Python<br>- Pandas<br>- NumPy<br>- Matplotlib<br>- Seaborn<br>- Scikit-learn<br>- Jupyter Notebook<br>- Git & GitHub<br><br>## 📫 Connect With Me<br>📷 Instagram: https://www.instagram.com/_avii_choudhary0_7/<br><br><br>"Turning data into insights and ideas into reality."
 
@@ -22,3 +17,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 "Turning data into insights and ideas into reality."
+## 📫 Connect With Me
+📷 Instagram: https://www.instagram.com/_avii_choudhary0_7/
